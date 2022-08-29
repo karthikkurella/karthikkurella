@@ -4,8 +4,7 @@
 - I take great care in the architecture and code quality of the things I build.
 
 - 👀 I’m interested in Machine Learning and Data Analytics
-- 🌱 I’m currently pursuing Sotware Engineering.
-- 💞️ I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source..
+- 💞️ I learned a lot from the open-source community and knowledge sharing happened through open-source..
 
 <!---
 karthikkurella/karthikkurella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
